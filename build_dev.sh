@@ -1,5 +1,5 @@
 echo 'tesst ne'
 
-pwd
+brew
 
 echo 'done ne'
