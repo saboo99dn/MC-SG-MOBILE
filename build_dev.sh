@@ -1,5 +1,5 @@
 echo 'tesst ne'
 
-brew install fastlane
+pwd
 
 echo 'done ne'
